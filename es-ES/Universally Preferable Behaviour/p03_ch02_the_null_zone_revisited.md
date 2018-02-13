@@ -36,13 +36,13 @@ Podemos decir:
 
 La tercera afirmación es una auto contradicción completa. La "verdad" es independiente del deseo, ya que el deseo es, por definición, una preferencia subjetiva, y la verdad es, por definición, la conformidad de las ideas con los estándares objetivos de la lógica y la realidad empírica. Decir que algo es cierto porque quieres que sea cierto es equiparar la subjetividad con la objetividad, que es una afirmación contradictoria.
 
-Las afirmaciones fanáticas - o "fe" - por definición no pueden ser probadas, ya que no creen en la ausencia de evidencia, sino en el *desafío* a la razón y / o evidencia.
+Las afirmaciones fanáticas - o"fe" - por definición no pueden ser probadas, ya que no creen en la ausencia de evidencia, sino en el *desafío* a la razón y / o evidencia.
 
 Podemos creer cosas no comprobadas que resultan ser ciertas, alguien sin duda pensó que el mundo era redondo antes de que se probara, pero la "zona nula" es el ámbito en el que nos aferramos a la creencia en cosas que posiblemente podrían no ser ciertas.
 
 Si digo que dos más dos son cinco, estoy cometiendo un error que se puede corregir con referencia a la lógica. Si digo que creo que existe un círculo cuadrado, entonces estoy haciendo una afirmación explícitamente contradictoria, que se refuta a sí misma. Sin embargo, si voy más allá y afirmo enfáticamente que "foo mas tury es igual a desty" - y me niego a definir cualquiera de mis términos - estoy haciendo una afirmación a la que la lógica y la evidencia no pueden aplicarse.
 
-### Siguiente parada: El "universo alternativo":
+### Siguiente parada: El "Universo alternativo":
 
 En general, la forma en que las personas intentan "salvar" sus creencias anti empíricas y anti líticas es crear un "reino alternativo" o un "universo alternativo" en el que sus afirmaciones contradictorias puedan ser verdaderas.
 
